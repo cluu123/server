@@ -1,0 +1,104 @@
+method: GET path: /tot/get/testVideo consuming: 0ms time: 2023-10-30 11:18:25
+        error: 请先登录! 
+method: GET path: /tot/get/testVideo consuming: 2ms time: 2023-10-30 11:48:15
+        error: Cannot read properties of undefined (reading 'on') 
+method: GET path: /tot/get/testVideo consuming: 2ms time: 2023-10-30 11:48:28
+        error: dest.on is not a function 
+method: GET path: /tot/get/testVideo consuming: 2ms time: 2023-10-30 11:48:43
+        error: dest.on is not a function 
+method: GET path: /tot/get/testVideo consuming: 2ms time: 2023-10-30 11:49:02
+        error: Callback must be a function. Received 'binary' 
+method: GET path: /tot/get/testVideo consuming: 3ms time: 2023-10-30 11:49:20
+        error: Callback must be a function. Received 'binary' 
+method: GET path: /tot/get/testVideo consuming: 2ms time: 2023-10-30 11:56:02
+        error: ENOENT: no such file or directory, open '/Users/cq/Desktop/work/user/tot/server/publish/upload/xue.mp3' 
+method: GET path: / consuming: 1ms time: 2023-11-09 16:24:39
+        error: 请先登录! 
+method: GET path: /favicon.ico consuming: 0ms time: 2023-11-09 16:24:39
+        error: 请先登录! 
+method: GET path: / consuming: 2ms time: 2023-11-09 16:26:55
+        error: 请先登录! 
+method: GET path: /favicon.ico consuming: 0ms time: 2023-11-09 16:26:55
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 1ms time: 2023-11-09 16:34:58
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 0ms time: 2023-11-09 16:36:00
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 1ms time: 2023-11-09 16:36:01
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 0ms time: 2023-11-09 16:36:02
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 0ms time: 2023-11-09 16:36:02
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 0ms time: 2023-11-09 16:36:02
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 0ms time: 2023-11-09 16:36:02
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 0ms time: 2023-11-09 16:36:05
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 554ms time: 2023-11-09 16:39:00
+        error: Request failed with status code 403 
+method: GET path: /tot/ccc/one consuming: 1654ms time: 2023-11-09 16:39:00
+        error: Request failed with status code 403 
+method: GET path: /tot/ccc/one consuming: 69ms time: 2023-11-09 16:39:05
+        error: Request failed with status code 403 
+method: GET path: /tot/ccc/one consuming: 256ms time: 2023-11-09 16:39:06
+        error: Request failed with status code 403 
+method: GET path: /tot/ccc/one consuming: 3ms time: 2023-11-09 17:39:58
+        error: 请先登录! 
+method: GET path: /tot/ccc/one consuming: 198ms time: 2023-11-09 17:40:11
+        error: Request failed with status code 403 
+method: GET path: /tot/ccc/one consuming: 4ms time: 2023-11-09 17:43:57
+        error: ele.red.join is not a function 
+method: GET path: /tot/ccc/two consuming: 1ms time: 2023-11-22 15:36:26
+        error: 请先登录! 
+method: GET path: /tot/ccc/three consuming: 2ms time: 2023-11-22 15:59:47
+        error: 请先登录! 
+method: GET path: /tot/ccc/three consuming: 710ms time: 2023-11-22 16:38:45
+        error: Expected value of header "aa" to be String, but "number" is found. 
+method: GET path: /tot/ccc/three consuming: 640ms time: 2023-11-22 16:38:56
+        error: Expected value of header "aa" to be String, but "number" is found. 
+method: GET path: /tot/ccc/three consuming: 701ms time: 2023-11-22 16:39:17
+        error: Expected value of header "aa" to be String, but "number" is found. 
+method: GET path: /tot/ccc/three consuming: 3107ms time: 2023-11-22 16:46:32
+        error: Waiting for selector `body` failed: Protocol error (Runtime.evaluate): Session closed. Most likely the page has been closed. 
+method: GET path: /tot/ccc/three consuming: 3031ms time: 2023-11-22 16:47:37
+        error: Cannot read properties of undefined (reading 'startsWith') 
+method: GET path: /tot/ccc/three consuming: 1ms time: 2023-11-22 16:48:29
+        error: 请先登录! 
+method: GET path: /tot/ccc/three consuming: 11014ms time: 2023-11-22 16:58:55
+        error: net::ERR_CONNECTION_RESET at https://www.tcknh.com/search/?keyword=%E9%BB%84%E6%98%8F%E5%88%86%E7%95%8C&t=0 
+method: GET path: /tot/ccc/three consuming: 8047ms time: 2023-11-22 17:12:25
+        error: elementHandle is not defined 
+method: GET path: /tot/ccc/three consuming: 2748ms time: 2023-11-22 17:15:42
+        error: elementHandle is not defined 
+method: GET path: /tot/ccc/three consuming: 2576ms time: 2023-11-22 17:20:09
+        error: page is not defined 
+method: GET path: /tot/ccc/three consuming: 3506ms time: 2023-11-22 17:21:53
+        error: Cannot read properties of undefined (reading 'outerHTML') 
+method: GET path: /tot/ccc/three consuming: 13429ms time: 2023-11-22 17:25:38
+        error: adaaa is not defined 
+method: GET path: /tot/ccc/two consuming: 1ms time: 2023-11-23 18:57:08
+        error: 请先登录! 
+method: GET path: /favicon.ico consuming: 0ms time: 2023-11-23 18:57:08
+        error: 请先登录! 
+method: GET path: / consuming: 2ms time: 2023-12-05 16:56:42
+        error: 请先登录! 
+method: GET path: /favicon.ico consuming: 1ms time: 2023-12-05 16:56:42
+        error: 请先登录! 
+method: GET path: /tot/ccc/four consuming: 1ms time: 2023-12-11 10:50:40
+        error: 请先登录! 
+method: GET path: /favicon.ico consuming: 0ms time: 2023-12-11 10:50:40
+        error: 请先登录! 
+method: GET path: /tot/ccc/four consuming: 3012ms time: 2023-12-11 11:07:32
+        error: undefined 
+method: POST path: /tot/test/file1 consuming: 2ms time: 2023-12-14 14:22:07
+        error: 请先登录! 
+method: POST path: /tot/test/file1 consuming: 0ms time: 2023-12-14 14:22:07
+        error: 请先登录! 
+method: POST path: /tot/test/file1 consuming: 0ms time: 2023-12-14 14:22:07
+        error: 请先登录! 
+method: POST path: /tot/test/file1/res consuming: 1ms time: 2023-12-14 14:23:52
+        error: ENOENT: no such file or directory, open '/Users/cq/Desktop/work/user/tot/server/public/upload/da3a16429d3c82f9abae288c80e61d11' 
+method: POST path: /tot/test/file1/res consuming: 1ms time: 2023-12-14 15:16:59
+        error: ENOENT: no such file or directory, open '/Users/cq/Desktop/work/user/tot/server/public/upload/616a834e386fb692ebc8af7c4752c03e' 
